@@ -67,6 +67,7 @@ syntax on
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
 autocmd BufNewFile,BufRead *.wiki set filetype=wiki syntax=wp
+au BufNewFile,BufRead * if expand('%:e') != '' | setfiletype make | endif
 au BufNewFile,BufRead *.yaml,*.yml setf yaml
 set langmenu=none                   " use english menu
 set hidden                          " don't unload buffer before switching

@@ -1,7 +1,7 @@
 [alias]
-    app = commit --amend -C HEAD
+    app = commit --amend -C HEAD -S
     br = branch
-    ci = commit
+    ci = commit -S
     co = checkout
     di = diff -M -C -C
     dic = diff -M -C -C --cached

@@ -20,7 +20,7 @@ else
 fi
 
 # Use local bin before
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+export PATH=/usr/local/bin:/usr/local/sbin:/Applications/Postgres.app/Contents/Versions/9.5/bin:$PATH
 if [ -d ~/bin ] ; then
     PATH=~/bin:/usr/local/share/npm/bin:"${PATH}"
 fi
