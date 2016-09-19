@@ -169,6 +169,9 @@ map <leader>tm :tabmove
 nnoremap <leader>s :%s//<left>
 vnoremap <leader>s :s//<left>
 
+" Git Pick to Fixup
+cmap fx :2,$g/^[^#]/s/pick/f/g
+
 " Marks browser
 map <leader>m :MarksBrowser<cr>
 
