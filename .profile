@@ -30,4 +30,5 @@ fi
 . ~/.configs/.bash/git-flow-completion.bash
 . ~/.configs/.bash/aliases.common.bash
 . ~/.configs/.bash/aliases.git.bash
+# . ~/.configs/.bash/autoscreen.bash
 . ~/.configs/.bash/z.sh
