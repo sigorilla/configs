@@ -3,6 +3,8 @@
     path = .git-aliases/svn
     path = .git-aliases/extra
     path = .git-aliases/yandex
+[commit]
+    gpgsign = true
 [color]
     diff = auto
     status = auto
