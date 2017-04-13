@@ -21,3 +21,4 @@
     merge = merge -S
     rebase = rebase -S
     tag = tag -s
+    commit = commit -S
