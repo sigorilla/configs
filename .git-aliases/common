@@ -20,3 +20,4 @@
     theirs = "!f() { git checkout --theirs $@ && git add $@; }; f"
     merge = merge -S
     rebase = rebase -S
+    tag = tag -s
