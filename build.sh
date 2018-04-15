@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Config builder
 # Copyright 2012 Alexander Tarmolov <tarmolov@gmail.com>
