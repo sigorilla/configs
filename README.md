@@ -24,8 +24,10 @@ Install
 =========================
 Clone my repository with configs and execute `build.sh`:
 
-    git clone git://github.com/tarmolov/configs.git ~/.configs
-    ~/.configs/./build.sh --name='YOUR NAME' --email=EMAIL
+```sh
+git clone git://github.com/sigorilla/configs.git ~/.configs
+~/.configs/./build.sh --name='YOUR NAME' --email=EMAIL
+```
 
 Enjoy! :)
 
