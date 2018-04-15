@@ -33,6 +33,8 @@ Bundle 'leafgarland/typescript-vim'
 Bundle 'MediaWiki-folding-and-syntax-highlight'
 Bundle 'mxw/vim-jsx'
 Bundle 'fatih/vim-go'
+Bundle 'vim-scripts/LargeFile'
+Bundle 'Xuyuanp/nerdtree-git-plugin'
 
 Bundle 'corntrace/bufexplorer'
 Bundle 'mileszs/ack.vim'
