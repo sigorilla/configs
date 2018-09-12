@@ -29,6 +29,7 @@
     excludesfile = ~/.gitignore
 [push]
     default = upstream
+    followTags = true
 [gc]
     auto = 0
 [branch]

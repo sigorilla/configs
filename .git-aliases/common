@@ -22,3 +22,4 @@
     rebase = rebase -S
     tag = tag -s
     commit = commit -S
+    pl = pull -r origin
