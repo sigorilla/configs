@@ -30,6 +30,8 @@
 [push]
     default = upstream
     followTags = true
+[pull]
+    rebase = true
 [gc]
     auto = 0
 [branch]
